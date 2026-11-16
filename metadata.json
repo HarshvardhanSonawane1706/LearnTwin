@@ -1,0 +1,6 @@
+{
+  "name": "LearnTwin",
+  "description": "Learning Digital Twin platform that diagnoses misconceptions, traces prerequisite root causes, simulates future learning paths, and visualizes adaptation via Path Diff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
